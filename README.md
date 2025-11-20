@@ -1,8 +1,8 @@
-# TP final de Git
+# TP Git
 
 ## Explication du TP
 
-Bienvenue sur le README du TP final de votre cours d'initiation à Git et Github !
+Bienvenue sur le README du TP de votre cours d'initiation à Git et Github !
 
 Ce README est le seul et unique énoncé dont vous avez besoin pour réaliser le TP.
 Prenez donc bien soin de le comprendre et de le lire **attentivement**.
@@ -11,7 +11,7 @@ Voici les règles de base :
 
 * Il est primordial de réaliser les exercices **dans l'ordre**.
 * Tout le monde doit avoir un compte Github
-* Mettez-vous par groupe de 3 (vous pouvez être 2, ça marche aussi mais vous aurez plus de boulot)
+* Mettez-vous par groupe de 3 (vous pouvez être 2, ça marche aussi mais vous aurez plus de travail)
 
 > Je mettrai souvent ce genre de petits message grisé.
 > Il s'agit souvent d'informations **très importantes**, lisez les donc bien !
@@ -34,17 +34,15 @@ Pour savoir comment forker, lisez ceci : [savoir comment forker](https://github.
 
 Dans ce second exercice, vous allez modifier les lignes qui suivent dans le README.md et présenter votre équipe (nom de famille et prénom) ainsi que la date du jour du TP.
 
-> Ce sont ces informations qui me permettront de vous noter, si vous ne vous présentez pas ici, je ne pourrais pas vous noter :)
-
 Noms des étudiants : 
-* Oliveau Quentin
-* Zerbib David
+* Nom Prénom
+* Nom Prénom
 
 
-Date du jour : 08/01/2021
+Date du jour : 20/11/2025
 
 Tout est ok ? 
-Faites donc un **commit** et **pushez** moi tout ça sur master (sur **votre** dépôt donc, puisque vous l'avez forké).
+Faites donc un **commit** et **pushez** moi tout ça sur le main (sur **votre** dépôt donc, puisque vous l'avez forké).
 
 > N'importe lequel des collaborateurs peut pusher !
 
@@ -88,14 +86,14 @@ Il va devoir effectuer **tout son travail** sur une branche nommée **"feature/c
 
 Le **collaborateur 2** devra : 
 
-* Ajouter une ligne d'information `Prof de git: Thomas Ecalle` où il le souhaite dans la liste déjà présente
-* Ajouter une courte description sous chaque élément de la liste (ça peut être complètement Random, je ne juge pas vos talents d'écrivains hors pairs).
+* Ajouter une ligne d'information `Prof de git: Boris STOCKER` où il le souhaite dans la liste déjà présente
+* Ajouter une courte description sous chaque élément de la liste (ça peut être complètement Random).
 
 Côté HTML, ça peu têtre simplement quelque chose comme : 
 
 ```
 <li>Mon élément</li>
-Ma superbe description
+Ma description
 ```
 Une fois que le **collaborateur 2** estime que tout son travail est fini, il peut **push** sa branche sur le dépôt distant.
 
@@ -113,23 +111,21 @@ Le **collaborateur 3** devra :
 
 Une fois que le **collaborateur 3** estime que tout son travail est fini, il peut **push** sa branche sur le dépôt distant.
 
-### Exercice 4 : Fuuuuuuusion ! (5 points)
+### Exercice 4 : Fusion ! (5 points)
 
-Nous approchons de la fin de cet incroyable TP :)
+Nous approchons de la fin de cet TP.
 
 A ce stade, vous devriez avoir 4 branches sur votre dépôt :
 
-* **Master** avec votre commit de présentation
+* **Main** avec votre commit de présentation
 * **feature/collab-1** avec le travail du collaborateur 1
 * **feature/collab-2** avec le travail du collaborateur 2
 * **hotfix/collab-3** avec le travail du collaborateur 3
 
-Nous allons désormais fusionner l'ensemble des **features** sur la branche **master**.
+Nous allons désormais fusionner l'ensemble des **features** sur la branche **main**.
 
 **ATTENTION !** Je veux être capable de voir vos branches et le travail de fusion effectué !
 Débrouillez-vous donc pour avoir les traces de vos branches et donc des commits de merge quoi qu'il arrive.
-
-> Nous avons vu dans le cours comment faire ça :)
 
 > N'importe lequel des collaborateurs peut s'occuper des fusions, je pars du principe que les 3 y participent.
 
@@ -137,17 +133,17 @@ Les fusions doivent se faire dans l'ordre suivant :
 
 #### 1ère fusion :
 
-Fusionnez la branche **hotfix/collab-3** sur la branche **master**.
+Fusionnez la branche **hotfix/collab-3** sur la branche **main**.
 
 #### 2ème fusion :
 
-Fusionnez la branche **feature/collab-2** sur la branche **master**.
+Fusionnez la branche **feature/collab-2** sur la branche **main**.
 
 > Attention ici, au moment du Merge, a bien garder les corrections apportées par le **collaborateur 3** !
 
 #### 3ème fusion :
 
-Fusionnez la branche **feature/collab-1** sur la branche **master**.
+Fusionnez la branche **feature/collab-1** sur la branche **main**.
 
 > Attention ici, au moment du Merge, a bien garder les modifications apportées par les **collaborateurs 2 et 3** tout en y ajoutant les modifications du **collaborateur 1** !
 
@@ -155,7 +151,7 @@ Fusionnez la branche **feature/collab-1** sur la branche **master**.
 ### Fin des exercices :
 
 Tout est ok ?
-Alors n'oubliez pas de **push sur master** le résultat de toutes ces fusions sur votre dépôt distant et ... ce sera tout pour ce TP :)
+Alors n'oubliez pas de **push sur main** le résultat de toutes ces fusions sur votre dépôt distant et ... ce sera tout pour ce TP :)
 
 ### Comment vais-je corriger ?
 
