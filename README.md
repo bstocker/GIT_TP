@@ -1,6 +1,6 @@
 # Atelier Git, GitHub & Codespaces — travailler en équipe
 
-Atelier pratique pour étudiants de **B3 Informatique**.
+Atelier pratique pour étudiants en **Informatique**.
 Vous allez construire à plusieurs un petit site web et, en chemin, apprendre à **versionner**, **partager** et **collaborer** comme dans une vraie équipe de développement.
 
 ---
