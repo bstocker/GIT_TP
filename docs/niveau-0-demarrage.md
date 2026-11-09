@@ -19,8 +19,8 @@ Mettez-vous d'accord sur l'ordre des membres. Il servira pour tout l'atelier :
 | Rôle | Rôle en plus |
 | --- | --- |
 | **collab-1** | **Propriétaire** du dépôt (c'est lui qui le crée) |
-| **collab-2** | |
-| **collab-3** | |
+| **collab-2** | |Lamine
+| **collab-3** | |Emmanuel
 
 > Groupe de 2 : collab-1 fera aussi les missions de collab-3.
 
