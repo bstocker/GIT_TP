@@ -1,5 +1,4 @@
-# Emmanuelle MAX
+# Emmanuelle Max
 
-- Pseudo GitHub : @emmanuelle-m
+- Pseudo GitHub : emmanuellemax67-spec
 - Ce que je connais déjà de Git : ...
-- Ce que j'attends de cet atelier : ...
