@@ -15,3 +15,8 @@ Mon commit est envoyé sur le dépôt distant GitHub. Les autres collaborateurs 
 3. Que se passe-t-il si je supprime mon Codespace après un commit mais sans push ?
 
 Je risque de perdre mes commits et mes modifications locales, car ils n'ont pas encore été envoyés sur GitHub.
+## Stash
+
+La commande `git stash` permet de mettre temporairement de côté les modifications non commitées.
+Elle permet de retrouver un espace de travail propre sans perdre son travail.
+La commande `git stash pop` permet de récupérer les modifications mises de côté.
