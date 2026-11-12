@@ -109,3 +109,6 @@ Envoyez à votre enseignant :
 - les **pseudos GitHub** des membres.
 
 Bon atelier !
+
+## Notre projet
+Ce projet contient les pages de notre site une intégration continue (CI) et la gestion des releases
