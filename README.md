@@ -1,3 +1,4 @@
+# Projet GIT_TP
 # Atelier Git, GitHub & Codespaces — travailler en équipe
 
 Atelier pratique pour étudiants en **Informatique**.
@@ -109,3 +110,9 @@ Envoyez à votre enseignant :
 - les **pseudos GitHub** des membres.
 
 Bon atelier !
+
+## Notre projet
+Ce projet contient les pages de notre site une intégration continue (CI) et la gestion des releases
+
+
+*Dépôt validé avec intégration continue et gestion des releases.*
